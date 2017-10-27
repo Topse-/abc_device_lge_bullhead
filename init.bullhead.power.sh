@@ -85,7 +85,7 @@ write /sys/devices/system/cpu/cpu4/cpufreq/scaling_max_freq 1824000
 write /sys/devices/system/cpu/cpu4/cpufreq/interactive/go_hispeed_load 150
 write /sys/devices/system/cpu/cpu4/cpufreq/interactive/above_hispeed_delay "20000 960000:60000 1248000:30000"
 write /sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_rate 60000
-write /sys/devices/system/cpu/cpu4/cpufreq/interactive/hispeed_freq 633600
+write /sys/devices/system/cpu/cpu4/cpufreq/interactive/hispeed_freq 384000
 write /sys/devices/system/cpu/cpu4/cpufreq/interactive/io_is_busy 1
 write /sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_slack 380000
 write /sys/devices/system/cpu/cpu4/cpufreq/interactive/target_loads 98
